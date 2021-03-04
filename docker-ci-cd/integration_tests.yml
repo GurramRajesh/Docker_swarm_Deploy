@@ -1,0 +1,5 @@
+---
+tests: 
+    - integration: yes
+    - units: yes
+    - performance: NO
